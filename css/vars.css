@@ -4,6 +4,14 @@
 
     /* colors */
     --bg-icon: #131313; 
-    --bg-arrow-color: rgba(0,0,07)
+    --bg-arrow-color: rgba(0,0,07);
+    --bg-black-medium: #242424;
+    --bg-grey: #b3b3b3;
+    --white: #fff; 
+    --black: #000;
+
+    --grid-gap: 24px;
+    --column-count: 5;
+  
 
 }
